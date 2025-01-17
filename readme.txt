@@ -1,6 +1,6 @@
 Mateusz Bulira 2tc
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -88,49 +88,49 @@ Mateusz Bulira 2tc
 <body>
     <header>
         <div class="top-bar">
-            <span>Orci: +48 500 11 22 33</span>
-            <span>example@example.store</span>
+            <span>Telefon: +48 500 11 22 33</span>
+            <span>Email: example@example.store</span>
         </div>
     </header>
     <nav>
-        <a href="#">Donec pulvinar</a>
-        <a href="#">Proin eget massa</a>
-        <a href="#">Fusce dapibus</a>
-        <a href="#">Donec urna justo</a>
-        <a href="#">Donec mauris</a>
+        <a href="#">Strona główna</a>
+        <a href="#">O nas</a>
+        <a href="#">Usługi</a>
+        <a href="#">Kontakt</a>
+        <a href="#">Blog</a>
     </nav>
     <div class="banner">
         <div class="content">
-            <h1>Quisque facilisis semper hendrerit</h1>
-            <p>Nam in sollicitudin</p>
-            <a href="#" class="cta">Praesent vel erat</a>
+            <h1>Witamy na naszej stronie!</h1>
+            <p>Oferujemy najlepsze rozwiązania dla Twoich potrzeb.</p>
+            <a href="#" class="cta">Dowiedz się więcej</a>
         </div>
-        <img src="https://via.placeholder.com/300" alt="Graffiti Image">
+        <img src="https://via.placeholder.com/300" alt="Obrazek Graffiti">
     </div>
     <section class="features">
         <div class="feature">
-            <img src="https://via.placeholder.com/50" alt="Icon 1">
-            <h3>Phasellus iaculis</h3>
-            <p>Phasellus ut tincidunt arcu</p>
+            <img src="https://via.placeholder.com/50" alt="Ikona 1">
+            <h3>Nasze podejście</h3>
+            <p>Indywidualne podejście do każdego klienta.</p>
         </div>
         <div class="feature">
-            <img src="https://via.placeholder.com/50" alt="Icon 2">
-            <h3>Donec cursus</h3>
-            <p>Donec hendrerit nisl eget</p>
+            <img src="https://via.placeholder.com/50" alt="Ikona 2">
+            <h3>Nasze usługi</h3>
+            <p>Profesjonalizm i doświadczenie.</p>
         </div>
         <div class="feature">
-            <img src="https://via.placeholder.com/50" alt="Icon 3">
-            <h3>Nam quis libero tortor</h3>
-            <p>Donec nec odio pretium</p>
+            <img src="https://via.placeholder.com/50" alt="Ikona 3">
+            <h3>Nasze wartości</h3>
+            <p>Zaufanie i jakość to nasz priorytet.</p>
         </div>
         <div class="feature">
-            <img src="https://via.placeholder.com/50" alt="Icon 4">
-            <h3>Morbi blandit sit amet</h3>
-            <p>Morbi et neque sit amet augue</p>
+            <img src="https://via.placeholder.com/50" alt="Ikona 4">
+            <h3>Nasza oferta</h3>
+            <p>Kompleksowe rozwiązania w jednym miejscu.</p>
         </div>
     </section>
     <footer class="footer">
-        &copy; 2025 - All rights reserved
+        &copy; 2025 - Wszystkie prawa zastrzeżone
     </footer>
 </body>
 </html>
